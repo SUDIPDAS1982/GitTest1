@@ -8,9 +8,9 @@ namespace ConsoleApp1
     {
         int add()
         {
-            int x1=1;
-            int x2=2;
-            int sum = x1 + x2;
+            var x1=1;
+            Var x2=2;
+            Var sum = x1 + x2;
             return sum;
         }
     }
